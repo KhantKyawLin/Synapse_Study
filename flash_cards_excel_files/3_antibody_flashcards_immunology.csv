@@ -1,0 +1,66 @@
+What is the primary function of an antigen (Ag)?,Antigens stimulate the immune system to produce specific antibodies.
+Which biomolecule class do most antigens belong to?,Antigens are generally proteins.
+The specific region on an antigen that is recognized and bound by an antibody is the _____.,Epitope
+What term describes the specific part of an antibody that binds to an antigen's epitope?,Paratope
+Any substance that interacts with an antibody is defined as a(n) _____.,Antigen
+What is the difference between an antigen and an immunogen?,An immunogen is any molecule that specifically induces or elicits an immune response.
+How does a hapten become capable of inducing antibody formation?,A hapten must bind to a larger carrier protein to become immunogenic.
+Which specific cell type is responsible for secreting soluble antibodies (Ab)?,Plasma cells (differentiated from activated B cells) secrete antibodies.
+"In the context of humoral immunity, what is the synonym for antibody?",Immunoglobulin (Ig)
+True or False: All immunoglobulins function as antibodies.,"False, although the terms are often used synonymously."
+What is the basic polypeptide chain composition of a standard antibody molecule?,It consists of two identical heavy (H) chains and two identical light (L) chains.
+Which type of chemical bond holds the heavy and light chains of an antibody together?,Disulfide bonds
+Which region of the antibody chain determines its antigen specificity?,The variable (V) region
+The constant (C) region of the antibody's heavy chain is responsible for determining the molecule's _____.,Biological function or class (isotype)
+What are the two types of light chains found in human antibodies?,Kappa ($\kappa$) and Lambda ($\lambda$)
+Which antibody region is located at the N-terminal of the polypeptide chains?,The variable (V) region
+What are CDRs in the context of antibody structure?,Complementarity Determining Regions are hypervariable loops that form the antigen-binding site.
+Which specific hypervariable region has the greatest degree of variation and is most important for antigen binding?,CDR3
+What is the structural role of the hinge region in an antibody?,"It provides flexibility to the Fab arms, allowing them to bind epitopes at different distances."
+Digestion of IgG with the enzyme papain produces which fragments?,Two Fab fragments and one Fc fragment
+What is the primary function of the Fab fragment produced by enzymatic cleavage?,The Fab fragment is responsible for antigen binding.
+What results from the digestion of an antibody with the enzyme pepsin?,One $F(ab')_2$ fragment and several small pFc' peptides
+Which antibody fragment is responsible for binding to effector cells and activating complement?,The Fc (crystallizable) fragment
+List the five primary classes (isotypes) of human immunoglobulins.,"IgG, IgM, IgA, IgE, and IgD"
+"Which antibody isotype is the most abundant in human serum, accounting for approximately 75%?",IgG
+Which is the only antibody class capable of crossing the placenta to provide passive immunity to a fetus?,IgG
+What is the structural form of IgM when it is secreted into the blood?,It is secreted as a pentamer.
+Which antibody isotype is the first to be produced during a primary immune response?,IgM
+How many antigen-binding sites are present on a single secreted IgM pentamer?,It has 10 antigen-binding sites.
+Which immunoglobulin isotype is primarily associated with mucosal immunity and is found in secretions like saliva and milk?,IgA
+What structural component links the subunits of polymeric IgA or IgM?,The J (joining) chain
+Which isotype mediates Type I hypersensitivity (allergic reactions) and defends against parasitic infections?,IgE
+"Which antibody classes are typically found on the surface of mature, naive B cells?",IgM and IgD
+The process by which antibodies coat a pathogen to enhance phagocytosis is called _____.,Opsonization
+Which part of the antibody molecule binds to receptors on the surface of macrophages during opsonization?,The Fc region
+What does ADCC stand for in immunology?,Antibody-Dependent Cell-Mediated Cytotoxicity
+Which immune cell is the primary mediator of ADCC?,NK (Natural Killer) cells
+How do antibodies neutralize a virus or bacterial toxin?,They bind to the invader to prevent it from attaching to or entering host cells.
+Which complement activation pathway is triggered by the formation of antigen-antibody complexes?,The Classical pathway
+Which component of the C1 complex binds directly to the Fc region of an antibody?,C1q
+What are polyclonal antibodies (pAb)?,A mixture of antibodies from different B cell lineages that recognize multiple epitopes on a single antigen.
+What is a major characteristic of monoclonal antibodies (mAb)?,They are produced by a single B cell clone and are highly specific for one epitope.
+How is a hybridoma created in the laboratory?,By fusing a specific antibody-producing B cell with an immortal myeloma (cancer) cell.
+Why is genetic engineering used to create 'humanized' monoclonal antibodies?,"To replace mouse protein sequences with human ones, preventing the patient's immune system from rejecting the drug."
+What determines which class of antibody a B cell will produce during class switching?,The specific cytokines present in the B cell's local environment.
+Does class switching change the antigen specificity (the Fab region) of the antibody?,"No, the antigen specificity remains the same while the Fc region changes."
+What is the primary role of the complement system?,It is a group of serum proteins that work with antibodies to clear microbes and promote inflammation.
+Where are most complement proteins synthesized in the body?,In the liver
+"In complement nomenclature, which letter usually designates the smaller fragment released after cleavage?","The letter 'a' (e.g., C3a)"
+"Which complement protein is the exception to the 'a is smaller, b is larger' nomenclature rule?",C2 (where C2a is the larger fragment and C2b is the smaller)
+What temperature and duration are required to inactivate the heat-labile complement system in serum?,$56^{\circ}C$ for 30 minutes
+"The three pathways of complement activation are the Classical, Alternative, and _____ pathways.",Lectin (or MBL)
+What complex is formed at the end of all three complement pathways to cause cell lysis?,MAC (Membrane Attack Complex)
+Which complement fragments function as anaphylatoxins to enhance inflammation?,C3a and C5a
+Which specific complement protein is the most abundant in human serum?,C3
+What is the trigger for the Alternative complement pathway?,It is initiated by pathogen surface constituents and is antibody-independent.
+What activates the MBL (Lectin) pathway?,The binding of Mannose-Binding Lectin to mannose residues on the surface of microorganisms.
+How does the complement system contribute to opsonization?,"By depositing C3b on the surface of pathogens, which is then recognized by receptors on phagocytes."
+Term: Agglutination,Definition: The clumping together of cells or particles (like bacteria) caused by antibodies binding to multiple antigens.
+"In the IgG molecule, which heavy chain domains form the 'tail' or Fc region?",The CH2 and CH3 domains
+Which immunoglobulin heavy chain type is associated with the IgG isotype?,Gamma ($\gamma$)
+Which cells differentiate into 'antibody factories' known as plasma B cells?,B lymphocytes
+What is the biological importance of the secretory component found in sIgA?,It protects the antibody from being degraded by digestive enzymes in the mucosal tract.
+True or False: Monoclonal antibodies can be used to treat autoimmune diseases like rheumatoid arthritis by blocking cytokines.,"True (e.g., blocking TNF)."
+What is the 'oxidative burst' in the context of immune cells?,"A high-intensity battle tactic used by neutrophils to destroy invaders, often resulting in the death of the neutrophil."
+The 'groove' of which MHC molecule displays exogenous peptides to Helper T cells?,MHC class II

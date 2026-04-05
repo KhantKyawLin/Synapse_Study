@@ -1,0 +1,9 @@
+{
+  "name": "synapse-study",
+  "version": "1.0.0",
+  "description": "Medical Flashcards App",
+  "scripts": {
+    "update": "node update.js",
+    "start": "npx serve ."
+  }
+}

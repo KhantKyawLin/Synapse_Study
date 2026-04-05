@@ -1,0 +1,60 @@
+What is the definition of an antigen (Ag)?,Substances that stimulate the immune system to produce antibodies and effector lymphocytes.
+A small molecular weight substance that is antigenic but cannot induce an immune response by itself is called a _____.,Hapten
+How can a hapten be made to stimulate an immune response?,"By linking it to a large carrier molecule, usually a serum protein."
+Term: Immunogenicity,Definition: The ability of foreign molecules to stimulate an immune response leading to the production of antibodies and effector lymphocytes.
+Term: Antigenicity,Definition: The capacity of a chemical structure to bind specifically with products of adaptive immunity (antibodies or T cell receptors).
+What is a 'complete antigen'?,A molecule that can both induce an immune response and bind to an antibody or T cell receptor.
+An antigen that induces immunologic tolerance instead of an active immune response is known as a _____.,Tolerogen
+What is the term for a substance that can cause an allergy?,Allergen
+What is an epitope?,The specific part of an antigen molecule to which an antibody or lymphocyte receptor attaches itself.
+"In a polypeptide antigen, how many amino acid residues typically make up an epitope?",8 to 17 amino acid residues.
+How many monosaccharides typically form an epitope in a polysaccharide antigen?,5 to 7 monosaccharides.
+The part of an antibody that binds to the epitope is called the _____.,Paratope
+Term: Antigenic Valency,Definition: The total number of epitopes on an antigen that can be bound by antibodies or lymphocyte receptors.
+Which type of antigen is typically monovalent?,Hapten
+What defines a sequential (linear) epitope?,It is formed by several adjacent amino acid residues in a primary sequence.
+What defines a conformational epitope?,"It is formed by amino acids brought together by the folding of a protein, creating a complex site on the surface."
+Which type of lymphocyte primarily recognizes sequential epitopes?,T cells
+Which type of lymphocyte primarily recognizes conformational epitopes?,B cells
+Where are T-cell epitopes typically located within an antigen molecule?,Internal (requires processing).
+Where are B-cell epitopes typically located on an antigen molecule?,Surface (accessible to antibodies).
+Do B-cell epitopes require Antigen Presenting Cell (APC) processing for recognition?,"No, they are recognized in their native form."
+Term: Hidden Epitope,Definition: An epitope located inside an antigen that cannot be recognized by B cell receptors unless the antigen is denatured or processed.
+What is a cross-reacting antigen?,An epitope that is shared or identical between two different antigens from different species or tissues.
+How does an antibody against Antigen A cause a cross-reaction with Antigen B?,By binding to a shared epitope (common antigen) present on both molecules.
+What is the relationship between molecular weight and immunogenicity?,Larger molecules (higher molecular weight) generally exhibit better immunogenicity.
+Why is starch a poor antigen despite its large size?,It lacks chemical complexity because it is a simple repetitive polysaccharide.
+Which class of biological molecules generally makes the most effective (best) antigens?,Complex proteins
+Why is gelatin considered a weak antigen?,It has structural instability due to its high flexibility and lack of a fixed shape.
+How does degradability affect a molecule's ability to act as an antigen?,Molecules that are destroyed too rapidly or are completely indigestible cannot provide enough antigen to stimulate a response.
+The requirement that an antigen must be recognized as 'non-self' is called _____.,Foreignness
+Term: Adjuvant,Definition: A substance mixed and injected with an antigen to enhance the resulting immune response.
+Which genetic factor in the recipient most significantly influences the immune response to a specific antigen?,Major Histocompatibility Complex (MHC) genotype.
+Antigens that require T-cell help to stimulate B cells to produce antibodies are called _____.,Thymus-dependent antigens (TD-Ag)
+What is the typical chemical composition of a Thymus-independent antigen (TI-Ag)?,Polysaccharides
+What characterizes the epitope structure of TD-Ags?,A few copies of many different types of antigenic epitopes.
+What characterizes the epitope structure of TI-Ags?,The same antigenic epitope repeated many times in a sequence.
+Which class of antibody is primarily produced in response to TI-Ags?,IgM
+Do TI-Ags typically induce immunological memory?,"No, they do not produce immune memory."
+Term: Xenoantigen,Definition: An antigen derived from a different species.
+Term: Alloantigen,Definition: Antigenic substances present in different individuals of the same species.
+What are two major examples of human allogenic antigens?,Blood type (RBC) antigens and HLA (transplantation) antigens.
+Term: Autoantigen,Definition: A normal self-protein or complex recognized by the immune system in patients with autoimmune disease.
+What are heterophilic (Forsman) antigens?,"Common antigens irrelevant to species that exist across humans, animals, plants, and microorganisms."
+How do heterophilic antigens lead to rheumatic fever?,Antibodies against hemolytic streptococcus cross-react with glycoproteins in the cardiac valve or heart muscle.
+Term: Superantigen (SAg),Definition: Secreted proteins that exhibit highly potent lymphocyte-transforming activity specifically directed toward T lymphocytes.
+Give an example of an exogenous superantigen.,Staphylococcus aureus enterotoxin (or HIV protein).
+Give an example of an endogenous superantigen.,Mouse mammary tumor virus protein.
+How does the required dose for a superantigen compare to a conventional antigen?,Superantigens induce a strong response with a very low dose.
+Is the recognition of superantigens constrained by the Major Histocompatibility Complex (MHC)?,"No, superantigens are not constrained by MHC restriction."
+Why do superantigens cause severe pathologic disease?,"They induce massive, non-specific cytokine release by activating a large percentage of the T-cell population."
+What part of the T cell receptor (TCR) do superantigens typically bind to?,The $V_{\beta}$ region.
+How do superantigens bypass normal antigen processing?,They bind directly to the outside of MHC class II molecules and TCRs without being internalized or processed by APCs.
+Term: TSA (Tumor Specific Antigen),Definition: New antigens (neoantigens) appearing on tumor cells that are not found on healthy cells.
+Term: TAA (Tumor Associated Antigen),Definition: Antigens that are overexpressed on tumor cells but also exist in healthy tissues.
+"In blood typing, what antigen is present on the surface of Type AB red blood cells?",Both A and B antigens.
+What is the primary significance of the Rh system in clinical immunology?,Its role in hemolytic disease of the newborn.
+Why are health workers and the elderly prioritized for annual influenza vaccinations?,Practicality (limited resources) and risk (contact frequency and complication severity).
+"Compared to proteins, what is the immunogenicity of lipids and nucleic acids?",They are generally poor antigens unless complexed with proteins.
+"In terms of route of administration, which route typically targets the spleen?",Intravenous administration.
+Oral administration of an antigen primarily targets which lymphoid tissue?,Gut-associated lymphoid tissue (GALT).

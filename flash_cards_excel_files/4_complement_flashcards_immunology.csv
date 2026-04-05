@@ -1,0 +1,75 @@
+What is the collective name for the group of more than 30 serum proteins that cooperate to clear microbes and promote inflammation?,The complement system
+Where are most complement proteins primarily synthesized in the body?,The liver
+Which specific complement protein is found in the highest concentration in human serum?,$C3$
+How does heating immune serum at $56^{\circ}C$ for 30 minutes affect the complement system?,It inactivates the heat-labile complement proteins.
+"In complement nomenclature, what does the lowercase letter 'b' usually signify when a protein is cleaved?",The larger fragment that typically binds to membranes or activation complexes.
+"In complement nomenclature, what does the lowercase letter 'a' usually signify when a protein is cleaved?",The smaller fragment that is typically released into the microenvironment.
+What is the major exception to the nomenclature rule that 'b' is the larger fragment and 'a' is the smaller fragment?,$C2$ (where $C2a$ is the larger fragment and $C2b$ is the smaller one).
+What are the three distinct pathways of complement activation?,"The Classical, Alternative, and Lectin (MBL) pathways."
+Which complement activation pathway is initiated by the formation of antigen-antibody (Ag-Ab) complexes?,The Classical pathway
+Which antibody classes are capable of initiating the classical complement pathway?,$IgG$ and $IgM$
+What component of the $C1$ complex is responsible for recognizing and binding to the $Fc$ region of antibodies?,$C1q$
+The $C1$ complex consists of one molecule of $C1q$ and two molecules each of which two serine proteases?,$C1r$ and $C1s$
+What is the $C3$ convertase of the Classical pathway?,$C4b2a$
+Which ion is required for the activation and stability of the $C1$ complex?,Calcium ($Ca^{2+}$)
+"In the Classical pathway, which protein is cleaved by activated $C1s$ to produce a fragment that binds to the pathogen surface?",$C4$
+What is the $C5$ convertase of the Classical and Lectin pathways?,$C4b2a3b$
+Which complement activation pathway is initiated by cell-surface constituents foreign to the host and is antibody-independent?,The Alternative pathway
+What is the $C3$ convertase of the Alternative pathway?,$C3bBb$
+Which serum factor is responsible for cleaving Factor $B$ into $Ba$ and $Bb$ in the Alternative pathway?,Factor $D$
+What is the role of Properdin (Factor $P$) in the Alternative pathway?,It stabilizes the $C3bBb$ ($C3$ convertase) complex on the pathogen surface.
+What is the $C5$ convertase of the Alternative pathway?,$C3bBb3b$ (also written as $C3b_{n}Bb$)
+Which complement pathway is activated by the binding of $MBL$ to mannose residues on microorganism surfaces?,The Lectin (or $MBL$) pathway
+"In the Lectin pathway, which proteins function similarly to $C1r$ and $C1s$ to cleave $C4$ and $C2$?",$MASPs$ (MBL-associated serine proteases)
+Which complement pathway is described as having 'smart bomb' specificity due to its recognition of specific sugar patterns?,The Lectin pathway
+What is the shared terminal sequence of the complement system that leads to cell lysis?,The Membrane Attack Complex ($MAC$)
+Which complement fragment initiates the assembly of the Membrane Attack Complex ($MAC$)?,$C5b$
+The Membrane Attack Complex ($MAC$) is composed of which specific complement components?,"$C5b$, $C6$, $C7$, $C8$, and multiple $C9$ molecules."
+How does the Membrane Attack Complex ($MAC$) cause the destruction of a pathogen?,"It forms a pore in the plasma membrane, leading to an influx of fluids and osmotic lysis."
+Term: Opsonization,Definition: The coating of a pathogen with proteins (opsonins) to enhance its recognition and ingestion by phagocytes.
+Which two complement fragments are the primary opsonins that bind to $CR1$ on macrophages?,$C3b$ and $C4b$
+Which complement fragments are known as anaphylatoxins because they promote inflammation and recruit immune cells?,$C3a$ and $C5a$
+Which complement fragment is the most potent chemoattractant for recruiting neutrophils to the site of infection?,$C5a$
+How does the complement system contribute to 'immune complex clearance'?,By solubilizing antigen-antibody complexes and facilitating their removal by the liver and spleen.
+What is the function of the $C1$ inhibitor ($C1\text{ }INH$)?,It prevents the excessive activation of the $C1$ complex in the Classical pathway.
+Term: Decay-accelerating factor ($DAF$ or $CD55$),Definition: A membrane protein that protects host cells by accelerating the dissociation of $C3$ convertases.
+Which regulatory protein binds to $C3b$ or $C4b$ and acts as a cofactor for their cleavage by Factor $I$?,Factor $H$ (for $C3b$) or $C4$-binding protein (for $C4b$).
+What is the function of Factor $I$ in the complement system?,It is a serine protease that cleaves and inactivates membrane-bound $C3b$ and $C4b$.
+Term: $CD59$ (Protectin or $MIRL$),Definition: A membrane protein that prevents the final assembly of the $MAC$ by blocking the incorporation of $C9$.
+What is the role of $S$ protein (Vitronectin) in complement regulation?,It prevents the $C5b-7$ complex from inserting into host cell membranes.
+"Deficiencies in early Classical pathway components ($C1$, $C2$, $C4$) are most commonly associated with which type of condition?",Lupus-like autoimmune diseases
+"A deficiency in which complement component is most severe, leading to recurrent infections with pyogenic bacteria?",$C3$
+Deficiencies in the terminal complement components ($C5$ through $C9$) specifically increase susceptibility to which type of infection?,Recurrent Neisserial infections (meningitis or gonorrhea).
+Which complement fragment is responsible for 'the amplification loop' in the Alternative pathway?,$C3b$
+How do human cells distinguish themselves from pathogens to avoid 'friendly fire' from the complement system?,"They express regulatory proteins like $DAF$, $MCP$, and $CD59$ on their surfaces."
+What is the function of $C3aR$ and $C5aR$ receptors on mast cells?,They bind anaphylatoxins to trigger the release of histamine and other inflammatory mediators.
+"Which complement activation stage involves the cleavage of $C4$, $C2$, $C3$, and $C5$ to generate $C5b$?",The Activation stage
+The 'Identification stage' of the Classical pathway concludes with the activation of which enzyme?,$C1s$ esterase
+What initiates the $MAC$ formation after $C5b$ binds to the membrane?,"The sequential binding of $C6$, $C7$, and $C8$, followed by the polymerization of $C9$."
+Which pathway is considered the oldest from an evolutionary perspective?,The Alternative pathway
+Why is the antibody-dependent pathway called 'Classical'?,Because it was the first complement activation pathway to be discovered.
+How does $C3b$ act like 'Nutella on toast' for macrophages?,It makes the bacteria 'tasty' and easier to ingest through opsonization.
+Which regulatory component inhibits the $C5b6$ complex from binding to $C7$ and $C8$?,$MIRL$ ($CD59$)
+What is the primary biological consequence of the 'Membrane attack stage'?,Cell lysis due to membrane destruction.
+Which complement pathway is directly triggered by the 'spontaneous conversion' of $C3$?,The Alternative pathway
+What is the specific role of Factor $H$ in the Alternative pathway?,It competes with Factor $B$ for binding to $C3b$ and acts as a cofactor for Factor $I$ to inactivate $C3b$.
+Which complement component serves as the 'recognition site' for $IgM$ or $IgG$ in an immune complex?,$C1q$
+Which complement fragment is produced when $C3$ convertase acts on $C3$?,$C3a$ (released) and $C3b$ (membrane-bound).
+Which complement pathway is essential for defense against 'early infection' before antibodies are produced?,The Alternative and Lectin pathways
+"In the context of regulation, what does 'homologous restriction factor' ($HRF$) do?","It binds to $C8$ to prevent its association with $C9$, inhibiting $MAC$ formation."
+What clinical symptom is typically associated with $C1\text{ }INH$ deficiency?,Hereditary angioedema (uncontrolled inflammation).
+Which component is shared by the $C3$ convertases of both the Classical and Lectin pathways?,$C4b2a$
+The binding of $MBL$ to pathogens is considered _____ immunity because it does not require prior exposure to the pathogen.,Innate
+"Which antibody is more efficient at activating complement, $IgM$ or $IgG$?",$IgM$ (because its pentameric structure provides multiple $Fc$ regions for $C1q$ binding).
+Which protease is responsible for the cleavage of $C5$ into $C5a$ and $C5b$?,$C5$ convertase
+Which complement receptor on phagocytes specifically recognizes $C3b$?,$CR1$ ($CD35$)
+How does the 'planar' form of $IgM$ differ from the 'staple' form in complement activation?,"The 'staple' form, adopted upon binding to an antigen, exposes the $Fc$ binding sites for $C1q$."
+What is the byproduct of the reaction where Factor $D$ cleaves Factor $B$?,The $Ba$ fragment
+Which complement fragment helps clear 'apoptotic cells' from the organism?,$C1q$ (and opsonins like $C3b$).
+How do $C3a$ and $C5a$ increase vascular permeability?,By inducing mast cell degranulation and the release of histamine.
+What is the functional result of $C3b$ binding to a 'C-receptor' on a neutrophil?,Enhanced phagocytosis
+Which pathway uses $MASP1$ and $MASP2$?,The Lectin (MBL) pathway
+"In the Classical pathway, which molecule acts as the 'activator' of $C1r$?",A conformational change in $C1q$ after binding to an antibody.
+Which complement deficiency is specifically linked to an increased risk of Neisserial meningitis?,Terminal pathway components ($C5-C9$) or Properdin.
+What is the primary role of the complement system in the 'Disposal system' of the body?,Clearance of immune complexes and apoptotic cells.
+The complement system is described as a 'cascade' because _____.,The activation of one protein leads to the sequential proteolytic activation of the next.

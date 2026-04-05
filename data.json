@@ -1,0 +1,1007 @@
+[
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is the definition of an antigen (Ag)?",
+    "answer": "Substances that stimulate the immune system to produce antibodies and effector lymphocytes."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "A small molecular weight substance that is antigenic but cannot induce an immune response by itself is called a _____.",
+    "answer": "Hapten"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "How can a hapten be made to stimulate an immune response?",
+    "answer": "By linking it to a large carrier molecule, usually a serum protein."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Immunogenicity",
+    "answer": "Definition: The ability of foreign molecules to stimulate an immune response leading to the production of antibodies and effector lymphocytes."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Antigenicity",
+    "answer": "Definition: The capacity of a chemical structure to bind specifically with products of adaptive immunity (antibodies or T cell receptors)."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is a 'complete antigen'?",
+    "answer": "A molecule that can both induce an immune response and bind to an antibody or T cell receptor."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "An antigen that induces immunologic tolerance instead of an active immune response is known as a _____.",
+    "answer": "Tolerogen"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is the term for a substance that can cause an allergy?",
+    "answer": "Allergen"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is an epitope?",
+    "answer": "The specific part of an antigen molecule to which an antibody or lymphocyte receptor attaches itself."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "In a polypeptide antigen, how many amino acid residues typically make up an epitope?",
+    "answer": "8 to 17 amino acid residues."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "How many monosaccharides typically form an epitope in a polysaccharide antigen?",
+    "answer": "5 to 7 monosaccharides."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "The part of an antibody that binds to the epitope is called the _____.",
+    "answer": "Paratope"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Antigenic Valency",
+    "answer": "Definition: The total number of epitopes on an antigen that can be bound by antibodies or lymphocyte receptors."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Which type of antigen is typically monovalent?",
+    "answer": "Hapten"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What defines a sequential (linear) epitope?",
+    "answer": "It is formed by several adjacent amino acid residues in a primary sequence."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What defines a conformational epitope?",
+    "answer": "It is formed by amino acids brought together by the folding of a protein, creating a complex site on the surface."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Which type of lymphocyte primarily recognizes sequential epitopes?",
+    "answer": "T cells"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Which type of lymphocyte primarily recognizes conformational epitopes?",
+    "answer": "B cells"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Where are T-cell epitopes typically located within an antigen molecule?",
+    "answer": "Internal (requires processing)."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Where are B-cell epitopes typically located on an antigen molecule?",
+    "answer": "Surface (accessible to antibodies)."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Do B-cell epitopes require Antigen Presenting Cell (APC) processing for recognition?",
+    "answer": "No, they are recognized in their native form."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Hidden Epitope",
+    "answer": "Definition: An epitope located inside an antigen that cannot be recognized by B cell receptors unless the antigen is denatured or processed."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is a cross-reacting antigen?",
+    "answer": "An epitope that is shared or identical between two different antigens from different species or tissues."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "How does an antibody against Antigen A cause a cross-reaction with Antigen B?",
+    "answer": "By binding to a shared epitope (common antigen) present on both molecules."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is the relationship between molecular weight and immunogenicity?",
+    "answer": "Larger molecules (higher molecular weight) generally exhibit better immunogenicity."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Why is starch a poor antigen despite its large size?",
+    "answer": "It lacks chemical complexity because it is a simple repetitive polysaccharide."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Which class of biological molecules generally makes the most effective (best) antigens?",
+    "answer": "Complex proteins"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Why is gelatin considered a weak antigen?",
+    "answer": "It has structural instability due to its high flexibility and lack of a fixed shape."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "How does degradability affect a molecule's ability to act as an antigen?",
+    "answer": "Molecules that are destroyed too rapidly or are completely indigestible cannot provide enough antigen to stimulate a response."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "The requirement that an antigen must be recognized as 'non-self' is called _____.",
+    "answer": "Foreignness"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Adjuvant",
+    "answer": "Definition: A substance mixed and injected with an antigen to enhance the resulting immune response."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Which genetic factor in the recipient most significantly influences the immune response to a specific antigen?",
+    "answer": "Major Histocompatibility Complex (MHC) genotype."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Antigens that require T-cell help to stimulate B cells to produce antibodies are called _____.",
+    "answer": "Thymus-dependent antigens (TD-Ag)"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is the typical chemical composition of a Thymus-independent antigen (TI-Ag)?",
+    "answer": "Polysaccharides"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What characterizes the epitope structure of TD-Ags?",
+    "answer": "A few copies of many different types of antigenic epitopes."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What characterizes the epitope structure of TI-Ags?",
+    "answer": "The same antigenic epitope repeated many times in a sequence."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Which class of antibody is primarily produced in response to TI-Ags?",
+    "answer": "IgM"
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Do TI-Ags typically induce immunological memory?",
+    "answer": "No, they do not produce immune memory."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Xenoantigen",
+    "answer": "Definition: An antigen derived from a different species."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Alloantigen",
+    "answer": "Definition: Antigenic substances present in different individuals of the same species."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What are two major examples of human allogenic antigens?",
+    "answer": "Blood type (RBC) antigens and HLA (transplantation) antigens."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Autoantigen",
+    "answer": "Definition: A normal self-protein or complex recognized by the immune system in patients with autoimmune disease."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What are heterophilic (Forsman) antigens?",
+    "answer": "Common antigens irrelevant to species that exist across humans, animals, plants, and microorganisms."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "How do heterophilic antigens lead to rheumatic fever?",
+    "answer": "Antibodies against hemolytic streptococcus cross-react with glycoproteins in the cardiac valve or heart muscle."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: Superantigen (SAg)",
+    "answer": "Definition: Secreted proteins that exhibit highly potent lymphocyte-transforming activity specifically directed toward T lymphocytes."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Give an example of an exogenous superantigen.",
+    "answer": "Staphylococcus aureus enterotoxin (or HIV protein)."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Give an example of an endogenous superantigen.",
+    "answer": "Mouse mammary tumor virus protein."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "How does the required dose for a superantigen compare to a conventional antigen?",
+    "answer": "Superantigens induce a strong response with a very low dose."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Is the recognition of superantigens constrained by the Major Histocompatibility Complex (MHC)?",
+    "answer": "No, superantigens are not constrained by MHC restriction."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Why do superantigens cause severe pathologic disease?",
+    "answer": "They induce massive, non-specific cytokine release by activating a large percentage of the T-cell population."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What part of the T cell receptor (TCR) do superantigens typically bind to?",
+    "answer": "The $V_{\\beta}$ region."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "How do superantigens bypass normal antigen processing?",
+    "answer": "They bind directly to the outside of MHC class II molecules and TCRs without being internalized or processed by APCs."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: TSA (Tumor Specific Antigen)",
+    "answer": "Definition: New antigens (neoantigens) appearing on tumor cells that are not found on healthy cells."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Term: TAA (Tumor Associated Antigen)",
+    "answer": "Definition: Antigens that are overexpressed on tumor cells but also exist in healthy tissues."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "In blood typing, what antigen is present on the surface of Type AB red blood cells?",
+    "answer": "Both A and B antigens."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "What is the primary significance of the Rh system in clinical immunology?",
+    "answer": "Its role in hemolytic disease of the newborn."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Why are health workers and the elderly prioritized for annual influenza vaccinations?",
+    "answer": "Practicality (limited resources) and risk (contact frequency and complication severity)."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Compared to proteins, what is the immunogenicity of lipids and nucleic acids?",
+    "answer": "They are generally poor antigens unless complexed with proteins."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "In terms of route of administration, which route typically targets the spleen?",
+    "answer": "Intravenous administration."
+  },
+  {
+    "category": "Immunology - Antigen",
+    "question": "Oral administration of an antigen primarily targets which lymphoid tissue?",
+    "answer": "Gut-associated lymphoid tissue (GALT)."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the primary function of an antigen (Ag)?",
+    "answer": "Antigens stimulate the immune system to produce specific antibodies."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which biomolecule class do most antigens belong to?",
+    "answer": "Antigens are generally proteins."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "The specific region on an antigen that is recognized and bound by an antibody is the _____.",
+    "answer": "Epitope"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What term describes the specific part of an antibody that binds to an antigen's epitope?",
+    "answer": "Paratope"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Any substance that interacts with an antibody is defined as a(n) _____.",
+    "answer": "Antigen"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the difference between an antigen and an immunogen?",
+    "answer": "An immunogen is any molecule that specifically induces or elicits an immune response."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "How does a hapten become capable of inducing antibody formation?",
+    "answer": "A hapten must bind to a larger carrier protein to become immunogenic."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which specific cell type is responsible for secreting soluble antibodies (Ab)?",
+    "answer": "Plasma cells (differentiated from activated B cells) secrete antibodies."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "In the context of humoral immunity, what is the synonym for antibody?",
+    "answer": "Immunoglobulin (Ig)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "True or False: All immunoglobulins function as antibodies.",
+    "answer": "False, although the terms are often used synonymously."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the basic polypeptide chain composition of a standard antibody molecule?",
+    "answer": "It consists of two identical heavy (H) chains and two identical light (L) chains."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which type of chemical bond holds the heavy and light chains of an antibody together?",
+    "answer": "Disulfide bonds"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which region of the antibody chain determines its antigen specificity?",
+    "answer": "The variable (V) region"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "The constant (C) region of the antibody's heavy chain is responsible for determining the molecule's _____.",
+    "answer": "Biological function or class (isotype)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What are the two types of light chains found in human antibodies?",
+    "answer": "Kappa ($\\kappa$) and Lambda ($\\lambda$)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which antibody region is located at the N-terminal of the polypeptide chains?",
+    "answer": "The variable (V) region"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What are CDRs in the context of antibody structure?",
+    "answer": "Complementarity Determining Regions are hypervariable loops that form the antigen-binding site."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which specific hypervariable region has the greatest degree of variation and is most important for antigen binding?",
+    "answer": "CDR3"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the structural role of the hinge region in an antibody?",
+    "answer": "It provides flexibility to the Fab arms, allowing them to bind epitopes at different distances."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Digestion of IgG with the enzyme papain produces which fragments?",
+    "answer": "Two Fab fragments and one Fc fragment"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the primary function of the Fab fragment produced by enzymatic cleavage?",
+    "answer": "The Fab fragment is responsible for antigen binding."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What results from the digestion of an antibody with the enzyme pepsin?",
+    "answer": "One $F(ab')_2$ fragment and several small pFc' peptides"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which antibody fragment is responsible for binding to effector cells and activating complement?",
+    "answer": "The Fc (crystallizable) fragment"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "List the five primary classes (isotypes) of human immunoglobulins.",
+    "answer": "IgG, IgM, IgA, IgE, and IgD"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which antibody isotype is the most abundant in human serum, accounting for approximately 75%?",
+    "answer": "IgG"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which is the only antibody class capable of crossing the placenta to provide passive immunity to a fetus?",
+    "answer": "IgG"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the structural form of IgM when it is secreted into the blood?",
+    "answer": "It is secreted as a pentamer."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which antibody isotype is the first to be produced during a primary immune response?",
+    "answer": "IgM"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "How many antigen-binding sites are present on a single secreted IgM pentamer?",
+    "answer": "It has 10 antigen-binding sites."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which immunoglobulin isotype is primarily associated with mucosal immunity and is found in secretions like saliva and milk?",
+    "answer": "IgA"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What structural component links the subunits of polymeric IgA or IgM?",
+    "answer": "The J (joining) chain"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which isotype mediates Type I hypersensitivity (allergic reactions) and defends against parasitic infections?",
+    "answer": "IgE"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which antibody classes are typically found on the surface of mature, naive B cells?",
+    "answer": "IgM and IgD"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "The process by which antibodies coat a pathogen to enhance phagocytosis is called _____.",
+    "answer": "Opsonization"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which part of the antibody molecule binds to receptors on the surface of macrophages during opsonization?",
+    "answer": "The Fc region"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What does ADCC stand for in immunology?",
+    "answer": "Antibody-Dependent Cell-Mediated Cytotoxicity"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which immune cell is the primary mediator of ADCC?",
+    "answer": "NK (Natural Killer) cells"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "How do antibodies neutralize a virus or bacterial toxin?",
+    "answer": "They bind to the invader to prevent it from attaching to or entering host cells."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which complement activation pathway is triggered by the formation of antigen-antibody complexes?",
+    "answer": "The Classical pathway"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which component of the C1 complex binds directly to the Fc region of an antibody?",
+    "answer": "C1q"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What are polyclonal antibodies (pAb)?",
+    "answer": "A mixture of antibodies from different B cell lineages that recognize multiple epitopes on a single antigen."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is a major characteristic of monoclonal antibodies (mAb)?",
+    "answer": "They are produced by a single B cell clone and are highly specific for one epitope."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "How is a hybridoma created in the laboratory?",
+    "answer": "By fusing a specific antibody-producing B cell with an immortal myeloma (cancer) cell."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Why is genetic engineering used to create 'humanized' monoclonal antibodies?",
+    "answer": "To replace mouse protein sequences with human ones, preventing the patient's immune system from rejecting the drug."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What determines which class of antibody a B cell will produce during class switching?",
+    "answer": "The specific cytokines present in the B cell's local environment."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Does class switching change the antigen specificity (the Fab region) of the antibody?",
+    "answer": "No, the antigen specificity remains the same while the Fc region changes."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the primary role of the complement system?",
+    "answer": "It is a group of serum proteins that work with antibodies to clear microbes and promote inflammation."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Where are most complement proteins synthesized in the body?",
+    "answer": "In the liver"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "In complement nomenclature, which letter usually designates the smaller fragment released after cleavage?",
+    "answer": "The letter 'a' (e.g., C3a)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which complement protein is the exception to the 'a is smaller, b is larger' nomenclature rule?",
+    "answer": "C2 (where C2a is the larger fragment and C2b is the smaller)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What temperature and duration are required to inactivate the heat-labile complement system in serum?",
+    "answer": "$56^{\\circ}C$ for 30 minutes"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "The three pathways of complement activation are the Classical, Alternative, and _____ pathways.",
+    "answer": "Lectin (or MBL)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What complex is formed at the end of all three complement pathways to cause cell lysis?",
+    "answer": "MAC (Membrane Attack Complex)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which complement fragments function as anaphylatoxins to enhance inflammation?",
+    "answer": "C3a and C5a"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which specific complement protein is the most abundant in human serum?",
+    "answer": "C3"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the trigger for the Alternative complement pathway?",
+    "answer": "It is initiated by pathogen surface constituents and is antibody-independent."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What activates the MBL (Lectin) pathway?",
+    "answer": "The binding of Mannose-Binding Lectin to mannose residues on the surface of microorganisms."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "How does the complement system contribute to opsonization?",
+    "answer": "By depositing C3b on the surface of pathogens, which is then recognized by receptors on phagocytes."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Term: Agglutination",
+    "answer": "Definition: The clumping together of cells or particles (like bacteria) caused by antibodies binding to multiple antigens."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "In the IgG molecule, which heavy chain domains form the 'tail' or Fc region?",
+    "answer": "The CH2 and CH3 domains"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which immunoglobulin heavy chain type is associated with the IgG isotype?",
+    "answer": "Gamma ($\\gamma$)"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "Which cells differentiate into 'antibody factories' known as plasma B cells?",
+    "answer": "B lymphocytes"
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the biological importance of the secretory component found in sIgA?",
+    "answer": "It protects the antibody from being degraded by digestive enzymes in the mucosal tract."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "True or False: Monoclonal antibodies can be used to treat autoimmune diseases like rheumatoid arthritis by blocking cytokines.",
+    "answer": "True (e.g., blocking TNF)."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "What is the 'oxidative burst' in the context of immune cells?",
+    "answer": "A high-intensity battle tactic used by neutrophils to destroy invaders, often resulting in the death of the neutrophil."
+  },
+  {
+    "category": "Immunology - Antibody",
+    "question": "The 'groove' of which MHC molecule displays exogenous peptides to Helper T cells?",
+    "answer": "MHC class II"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the collective name for the group of more than 30 serum proteins that cooperate to clear microbes and promote inflammation?",
+    "answer": "The complement system"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Where are most complement proteins primarily synthesized in the body?",
+    "answer": "The liver"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which specific complement protein is found in the highest concentration in human serum?",
+    "answer": "$C3$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "How does heating immune serum at $56^{\\circ}C$ for 30 minutes affect the complement system?",
+    "answer": "It inactivates the heat-labile complement proteins."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "In complement nomenclature, what does the lowercase letter 'b' usually signify when a protein is cleaved?",
+    "answer": "The larger fragment that typically binds to membranes or activation complexes."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "In complement nomenclature, what does the lowercase letter 'a' usually signify when a protein is cleaved?",
+    "answer": "The smaller fragment that is typically released into the microenvironment."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the major exception to the nomenclature rule that 'b' is the larger fragment and 'a' is the smaller fragment?",
+    "answer": "$C2$ (where $C2a$ is the larger fragment and $C2b$ is the smaller one)."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What are the three distinct pathways of complement activation?",
+    "answer": "The Classical, Alternative, and Lectin (MBL) pathways."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement activation pathway is initiated by the formation of antigen-antibody (Ag-Ab) complexes?",
+    "answer": "The Classical pathway"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which antibody classes are capable of initiating the classical complement pathway?",
+    "answer": "$IgG$ and $IgM$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What component of the $C1$ complex is responsible for recognizing and binding to the $Fc$ region of antibodies?",
+    "answer": "$C1q$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "The $C1$ complex consists of one molecule of $C1q$ and two molecules each of which two serine proteases?",
+    "answer": "$C1r$ and $C1s$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the $C3$ convertase of the Classical pathway?",
+    "answer": "$C4b2a$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which ion is required for the activation and stability of the $C1$ complex?",
+    "answer": "Calcium ($Ca^{2+}$)"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "In the Classical pathway, which protein is cleaved by activated $C1s$ to produce a fragment that binds to the pathogen surface?",
+    "answer": "$C4$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the $C5$ convertase of the Classical and Lectin pathways?",
+    "answer": "$C4b2a3b$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement activation pathway is initiated by cell-surface constituents foreign to the host and is antibody-independent?",
+    "answer": "The Alternative pathway"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the $C3$ convertase of the Alternative pathway?",
+    "answer": "$C3bBb$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which serum factor is responsible for cleaving Factor $B$ into $Ba$ and $Bb$ in the Alternative pathway?",
+    "answer": "Factor $D$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the role of Properdin (Factor $P$) in the Alternative pathway?",
+    "answer": "It stabilizes the $C3bBb$ ($C3$ convertase) complex on the pathogen surface."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the $C5$ convertase of the Alternative pathway?",
+    "answer": "$C3bBb3b$ (also written as $C3b_{n}Bb$)"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement pathway is activated by the binding of $MBL$ to mannose residues on microorganism surfaces?",
+    "answer": "The Lectin (or $MBL$) pathway"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "In the Lectin pathway, which proteins function similarly to $C1r$ and $C1s$ to cleave $C4$ and $C2$?",
+    "answer": "$MASPs$ (MBL-associated serine proteases)"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement pathway is described as having 'smart bomb' specificity due to its recognition of specific sugar patterns?",
+    "answer": "The Lectin pathway"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the shared terminal sequence of the complement system that leads to cell lysis?",
+    "answer": "The Membrane Attack Complex ($MAC$)"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement fragment initiates the assembly of the Membrane Attack Complex ($MAC$)?",
+    "answer": "$C5b$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "The Membrane Attack Complex ($MAC$) is composed of which specific complement components?",
+    "answer": "$C5b$, $C6$, $C7$, $C8$, and multiple $C9$ molecules."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "How does the Membrane Attack Complex ($MAC$) cause the destruction of a pathogen?",
+    "answer": "It forms a pore in the plasma membrane, leading to an influx of fluids and osmotic lysis."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Term: Opsonization",
+    "answer": "Definition: The coating of a pathogen with proteins (opsonins) to enhance its recognition and ingestion by phagocytes."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which two complement fragments are the primary opsonins that bind to $CR1$ on macrophages?",
+    "answer": "$C3b$ and $C4b$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement fragments are known as anaphylatoxins because they promote inflammation and recruit immune cells?",
+    "answer": "$C3a$ and $C5a$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement fragment is the most potent chemoattractant for recruiting neutrophils to the site of infection?",
+    "answer": "$C5a$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "How does the complement system contribute to 'immune complex clearance'?",
+    "answer": "By solubilizing antigen-antibody complexes and facilitating their removal by the liver and spleen."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the function of the $C1$ inhibitor ($C1\\text{ }INH$)?",
+    "answer": "It prevents the excessive activation of the $C1$ complex in the Classical pathway."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Term: Decay-accelerating factor ($DAF$ or $CD55$)",
+    "answer": "Definition: A membrane protein that protects host cells by accelerating the dissociation of $C3$ convertases."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which regulatory protein binds to $C3b$ or $C4b$ and acts as a cofactor for their cleavage by Factor $I$?",
+    "answer": "Factor $H$ (for $C3b$) or $C4$-binding protein (for $C4b$)."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the function of Factor $I$ in the complement system?",
+    "answer": "It is a serine protease that cleaves and inactivates membrane-bound $C3b$ and $C4b$."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Term: $CD59$ (Protectin or $MIRL$)",
+    "answer": "Definition: A membrane protein that prevents the final assembly of the $MAC$ by blocking the incorporation of $C9$."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the role of $S$ protein (Vitronectin) in complement regulation?",
+    "answer": "It prevents the $C5b-7$ complex from inserting into host cell membranes."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Deficiencies in early Classical pathway components ($C1$, $C2$, $C4$) are most commonly associated with which type of condition?",
+    "answer": "Lupus-like autoimmune diseases"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "A deficiency in which complement component is most severe, leading to recurrent infections with pyogenic bacteria?",
+    "answer": "$C3$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Deficiencies in the terminal complement components ($C5$ through $C9$) specifically increase susceptibility to which type of infection?",
+    "answer": "Recurrent Neisserial infections (meningitis or gonorrhea)."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement fragment is responsible for 'the amplification loop' in the Alternative pathway?",
+    "answer": "$C3b$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "How do human cells distinguish themselves from pathogens to avoid 'friendly fire' from the complement system?",
+    "answer": "They express regulatory proteins like $DAF$, $MCP$, and $CD59$ on their surfaces."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the function of $C3aR$ and $C5aR$ receptors on mast cells?",
+    "answer": "They bind anaphylatoxins to trigger the release of histamine and other inflammatory mediators."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement activation stage involves the cleavage of $C4$, $C2$, $C3$, and $C5$ to generate $C5b$?",
+    "answer": "The Activation stage"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "The 'Identification stage' of the Classical pathway concludes with the activation of which enzyme?",
+    "answer": "$C1s$ esterase"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What initiates the $MAC$ formation after $C5b$ binds to the membrane?",
+    "answer": "The sequential binding of $C6$, $C7$, and $C8$, followed by the polymerization of $C9$."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which pathway is considered the oldest from an evolutionary perspective?",
+    "answer": "The Alternative pathway"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Why is the antibody-dependent pathway called 'Classical'?",
+    "answer": "Because it was the first complement activation pathway to be discovered."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "How does $C3b$ act like 'Nutella on toast' for macrophages?",
+    "answer": "It makes the bacteria 'tasty' and easier to ingest through opsonization."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which regulatory component inhibits the $C5b6$ complex from binding to $C7$ and $C8$?",
+    "answer": "$MIRL$ ($CD59$)"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the primary biological consequence of the 'Membrane attack stage'?",
+    "answer": "Cell lysis due to membrane destruction."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement pathway is directly triggered by the 'spontaneous conversion' of $C3$?",
+    "answer": "The Alternative pathway"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the specific role of Factor $H$ in the Alternative pathway?",
+    "answer": "It competes with Factor $B$ for binding to $C3b$ and acts as a cofactor for Factor $I$ to inactivate $C3b$."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement component serves as the 'recognition site' for $IgM$ or $IgG$ in an immune complex?",
+    "answer": "$C1q$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement fragment is produced when $C3$ convertase acts on $C3$?",
+    "answer": "$C3a$ (released) and $C3b$ (membrane-bound)."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement pathway is essential for defense against 'early infection' before antibodies are produced?",
+    "answer": "The Alternative and Lectin pathways"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "In the context of regulation, what does 'homologous restriction factor' ($HRF$) do?",
+    "answer": "It binds to $C8$ to prevent its association with $C9$, inhibiting $MAC$ formation."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What clinical symptom is typically associated with $C1\\text{ }INH$ deficiency?",
+    "answer": "Hereditary angioedema (uncontrolled inflammation)."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which component is shared by the $C3$ convertases of both the Classical and Lectin pathways?",
+    "answer": "$C4b2a$"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "The binding of $MBL$ to pathogens is considered _____ immunity because it does not require prior exposure to the pathogen.",
+    "answer": "Innate"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which antibody is more efficient at activating complement, $IgM$ or $IgG$?",
+    "answer": "$IgM$ (because its pentameric structure provides multiple $Fc$ regions for $C1q$ binding)."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which protease is responsible for the cleavage of $C5$ into $C5a$ and $C5b$?",
+    "answer": "$C5$ convertase"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement receptor on phagocytes specifically recognizes $C3b$?",
+    "answer": "$CR1$ ($CD35$)"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "How does the 'planar' form of $IgM$ differ from the 'staple' form in complement activation?",
+    "answer": "The 'staple' form, adopted upon binding to an antigen, exposes the $Fc$ binding sites for $C1q$."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the byproduct of the reaction where Factor $D$ cleaves Factor $B$?",
+    "answer": "The $Ba$ fragment"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement fragment helps clear 'apoptotic cells' from the organism?",
+    "answer": "$C1q$ (and opsonins like $C3b$)."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "How do $C3a$ and $C5a$ increase vascular permeability?",
+    "answer": "By inducing mast cell degranulation and the release of histamine."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the functional result of $C3b$ binding to a 'C-receptor' on a neutrophil?",
+    "answer": "Enhanced phagocytosis"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which pathway uses $MASP1$ and $MASP2$?",
+    "answer": "The Lectin (MBL) pathway"
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "In the Classical pathway, which molecule acts as the 'activator' of $C1r$?",
+    "answer": "A conformational change in $C1q$ after binding to an antibody."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "Which complement deficiency is specifically linked to an increased risk of Neisserial meningitis?",
+    "answer": "Terminal pathway components ($C5-C9$) or Properdin."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "What is the primary role of the complement system in the 'Disposal system' of the body?",
+    "answer": "Clearance of immune complexes and apoptotic cells."
+  },
+  {
+    "category": "Immunology - Complement",
+    "question": "The complement system is described as a 'cascade' because _____.",
+    "answer": "The activation of one protein leads to the sequential proteolytic activation of the next."
+  }
+]
