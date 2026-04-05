@@ -141,17 +141,25 @@ function updateUI() {
     nextBtn.disabled = currentIndex === filteredFlashcards.length - 1;
 
     // Render Math Formulas (LaTeX) synchronously on specific text elements ONLY to preserve smooth flipping transitions
-    if (window.renderMathInElement) {
-        const katexOptions = {
-            delimiters: [
-                { left: '$$', right: '$$', display: true },
-                { left: '$', right: '$', display: false }
-            ],
-            throwOnError: false
-        };
-        renderMathInElement(frontTextEl, katexOptions);
-        renderMathInElement(backTextEl, katexOptions);
-    }
+    // Added a small recursive check in case the library is slightly slow on Vercel
+    const renderMath = () => {
+        if (window.renderMathInElement) {
+            const katexOptions = {
+                delimiters: [
+                    { left: '$$', right: '$$', display: true },
+                    { left: '$', right: '$', display: false }
+                ],
+                throwOnError: false
+            };
+            renderMathInElement(frontTextEl, katexOptions);
+            renderMathInElement(backTextEl, katexOptions);
+        } else {
+            // Retry once if library is not yet available
+            setTimeout(renderMath, 100);
+        }
+    };
+    
+    renderMath();
 }
 
 // Navigation Logic
