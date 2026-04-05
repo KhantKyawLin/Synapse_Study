@@ -140,16 +140,18 @@ function updateUI() {
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === filteredFlashcards.length - 1;
 
-    // Render Math Formulas (LaTeX)
-    if (window.renderMathInElement) {
-        renderMathInElement(flashcardEl, {
-            delimiters: [
-                {left: '$$', right: '$$', display: true},
-                {left: '$', right: '$', display: false}
-            ],
-            throwOnError : false
-        });
-    }
+    // Render Math Formulas (LaTeX) - Wrapped in setTimeout to ensure DOM is ready
+    setTimeout(() => {
+        if (window.renderMathInElement) {
+            renderMathInElement(flashcardEl, {
+                delimiters: [
+                    {left: '$$', right: '$$', display: true},
+                    {left: '$', right: '$', display: false}
+                ],
+                throwOnError : false
+            });
+        }
+    }, 50);
 }
 
 // Navigation Logic
