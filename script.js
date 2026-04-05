@@ -17,7 +17,7 @@ const totalCardsEl = document.getElementById('totalCards');
 // Initialize App
 document.addEventListener('DOMContentLoaded', () => {
     loadFlashcards();
-    
+
     // Event Listeners
     flashcardEl.addEventListener('click', flipCard);
     prevBtn.addEventListener('click', showPreviousCard);
@@ -33,18 +33,18 @@ async function loadFlashcards() {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         allFlashcards = await response.json();
-        
+
         if (allFlashcards.length === 0) {
             showEmptyState();
             return;
         }
 
         populateCategories();
-        
+
         // Initialize with all cards
         filteredFlashcards = [...allFlashcards];
         currentIndex = 0;
-        
+
         updateUI();
 
         // Successful load sweet alert
@@ -75,7 +75,7 @@ async function loadFlashcards() {
 // Extract unique categories and populate the select dropdown
 function populateCategories() {
     const categories = [...new Set(allFlashcards.map(card => card.category))];
-    
+
     categories.forEach(category => {
         const option = document.createElement('option');
         option.value = category;
@@ -87,7 +87,7 @@ function populateCategories() {
 // Handle category selection
 function handleCategoryChange(e) {
     const selectedCategory = e.target.value;
-    
+
     if (flashcardEl.classList.contains('flipped')) {
         flashcardEl.classList.remove('flipped');
         setTimeout(() => updateFilteredCards(selectedCategory), 300); // wait for flip animation
@@ -102,9 +102,9 @@ function updateFilteredCards(category) {
     } else {
         filteredFlashcards = allFlashcards.filter(card => card.category === category);
     }
-    
+
     currentIndex = 0;
-    
+
     if (filteredFlashcards.length === 0) {
         showEmptyState();
     } else {
@@ -122,20 +122,20 @@ function flipCard() {
 // Show specific card based on index
 function updateUI() {
     if (filteredFlashcards.length === 0) return;
-    
+
     const currentCard = filteredFlashcards[currentIndex];
-    
+
     // Update text
     frontCategoryEl.textContent = currentCard.category;
     frontTextEl.textContent = currentCard.question;
-    
+
     backCategoryEl.textContent = currentCard.category;
     backTextEl.textContent = currentCard.answer;
-    
+
     // Update counter
     currentIndexEl.textContent = currentIndex + 1;
     totalCardsEl.textContent = filteredFlashcards.length;
-    
+
     // Update button states
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === filteredFlashcards.length - 1;
@@ -145,10 +145,10 @@ function updateUI() {
         if (window.renderMathInElement) {
             renderMathInElement(flashcardEl, {
                 delimiters: [
-                    {left: '$$', right: '$$', display: true},
-                    {left: '$', right: '$', display: false}
+                    { left: '$$', right: '$$', display: true },
+                    { left: '$', right: '$', display: false }
                 ],
-                throwOnError : false
+                throwOnError: false
             });
         }
     }, 50);
@@ -163,7 +163,7 @@ function showNextCard() {
             flashcardEl.classList.remove('flipped');
             waitTime = 300; // time to wait for slightly un-flipping before changing text
         }
-        
+
         setTimeout(() => {
             currentIndex++;
             updateUI();
@@ -179,7 +179,7 @@ function showPreviousCard() {
             flashcardEl.classList.remove('flipped');
             waitTime = 300;
         }
-        
+
         setTimeout(() => {
             currentIndex--;
             updateUI();
