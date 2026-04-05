@@ -140,18 +140,18 @@ function updateUI() {
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === filteredFlashcards.length - 1;
 
-    // Render Math Formulas (LaTeX) - Wrapped in setTimeout to ensure DOM is ready
-    setTimeout(() => {
-        if (window.renderMathInElement) {
-            renderMathInElement(flashcardEl, {
-                delimiters: [
-                    { left: '$$', right: '$$', display: true },
-                    { left: '$', right: '$', display: false }
-                ],
-                throwOnError: false
-            });
-        }
-    }, 50);
+    // Render Math Formulas (LaTeX) synchronously on specific text elements ONLY to preserve smooth flipping transitions
+    if (window.renderMathInElement) {
+        const katexOptions = {
+            delimiters: [
+                { left: '$$', right: '$$', display: true },
+                { left: '$', right: '$', display: false }
+            ],
+            throwOnError: false
+        };
+        renderMathInElement(frontTextEl, katexOptions);
+        renderMathInElement(backTextEl, katexOptions);
+    }
 }
 
 // Navigation Logic
