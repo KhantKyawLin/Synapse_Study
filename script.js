@@ -139,6 +139,17 @@ function updateUI() {
     // Update button states
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === filteredFlashcards.length - 1;
+
+    // Render Math Formulas (LaTeX)
+    if (window.renderMathInElement) {
+        renderMathInElement(flashcardEl, {
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false}
+            ],
+            throwOnError : false
+        });
+    }
 }
 
 // Navigation Logic
